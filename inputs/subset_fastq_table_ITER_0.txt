@@ -1,0 +1,13 @@
+/scratch/mcf96392/Brevipes_submission/fastqs_to_downsample/	AURA_aur	aura
+/scratch/mcf96392/Brevipes_submission/fastqs_to_downsample/	AURA_gra	aura
+/scratch/mcf96392/Brevipes_submission/fastqs_to_downsample/	SESP25_1_1	batch3
+/scratch/mcf96392/Brevipes_submission/fastqs_to_downsample/	SESP25_1_2	batch3
+/scratch/mcf96392/Brevipes_submission/fastqs_to_downsample/	BREV07_3_1	batch1
+/scratch/mcf96392/Brevipes_submission/fastqs_to_downsample/	BREV19_4_1	batch2
+/scratch/mcf96392/Brevipes_submission/fastqs_to_downsample/	FREM06_3_2	batch2
+/scratch/mcf96392/Brevipes_submission/fastqs_to_downsample/	FREM21_3_11	batch3
+/scratch/mcf96392/Brevipes_submission/fastqs_to_downsample/	JOHN31_4_1	batch2
+/scratch/mcf96392/Brevipes_submission/fastqs_to_downsample/	JOHN31_5_1	batch1
+/scratch/mcf96392/Brevipes_submission/fastqs_to_downsample/	NANU01_1	batch3
+/scratch/mcf96392/Brevipes_submission/fastqs_to_downsample/	NANU01_2	batch3
+/scratch/mcf96392/Brevipes_submission/fastqs_to_downsample/	CONS01_1_1	cons
