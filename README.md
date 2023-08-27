@@ -1,5 +1,6 @@
 ### Script and bioinformatics details for Eunanus popgen
 
+## This repository contains code used in the paper 'Strong postmating reproductive isolation in Mimulus section Eunanus', by Matthew Farnitano and Andrea Sweigart, accepted in the Journal of Evolutionary Biology 2023. Preprint available at https://doi.org/10.1101/2022.12.21.521469. 
 
 I. Alignment of raw reads to reference genomes
 
